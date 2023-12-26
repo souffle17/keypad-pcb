@@ -444,15 +444,11 @@
       },
       {
         "netclass": "Power",
-        "pattern": "XTAL2"
-      },
-      {
-        "netclass": "Default",
-        "pattern": "COL1"
+        "pattern": "+5V"
       },
       {
         "netclass": "Power",
-        "pattern": "XTAL1"
+        "pattern": "VCC"
       }
     ]
   },
