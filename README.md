@@ -1,4 +1,8 @@
-# keypad-pcb
+# keypad-pcb      
+
+A simple 2x3 mechanical keypad.       
+
+Case parts are designed for CNC machining, stacked and screwed together. Firmware uses QMK.       
 
 ### Resources:
 - https://guide.zykrah.me/
